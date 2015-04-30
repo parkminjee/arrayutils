@@ -23,7 +23,7 @@ public class ArrayUtilsTest {
 			System.out.println(intArr[i]);
 		}
 		
-		//3. 
+		//3. concat
 		int[] intA1={1, 3, 5, 7, 9};
 		int[] intA2={2, 4, 6, 8, 354};
 		
